@@ -11,3 +11,5 @@ Currently experiencing bugs with VR mode and getting it to work properly. I had 
 #Other difficulties 
 
 I spent a disproportionate amount of time trying to configure the VR settings. I was surprised to encounter so much difficulty with this, as I followed multiple examples with no luck. I wish that I could have spent more time fine-tuning the visuals and fireworks effects. 
+
+It would have been nice to have a basic code skeleton or more explicit instructions, at least for setting up the VR. 
